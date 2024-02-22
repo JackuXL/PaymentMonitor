@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PaymentMonitor</string>
+    <string name="channel_id">NotificationListener</string>
+    <string name="channel_desc">Listen payment notifications from Wechat and Alipay.</string>
+    <string name="ok">OK</string>
+    <string name="need_permission">The app needs to be granted permission to use.</string>
+    <string name="grant_notice">Grant Notice</string>
+    <string name="payment_is_listening">Listening payment notifications in background…</string>
+</resources>
